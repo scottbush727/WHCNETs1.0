@@ -1,0 +1,432 @@
+Source,Target,Weight
+American Studies,Anthropology,8
+American Studies,Art Track One,9
+American Studies,Art Track Three,9
+American Studies,Art Track Two,9
+American Studies,Biochemistry,3
+American Studies,Biological Anthropology,4
+American Studies,Biology,3
+American Studies,Business,12
+American Studies,Chemistry,4
+American Studies,Economics,7
+American Studies,English Literature,26
+American Studies,Environmental Studies,8
+American Studies,History,42
+American Studies,Interdisciplinary Critical Theory,5
+American Studies,International Studies,3
+American Studies,Latin American Studies,4
+American Studies,Law and Society,23
+American Studies,Marine Biology,3
+American Studies,Mathematical Sciences,8
+American Studies,Mathematics,4
+American Studies,Medical Humanities,17
+American Studies,Neuroscience Track One,3
+American Studies,Neuroscience Track Two,3
+American Studies,Philosophy,4
+American Studies,Physics,3
+American Studies,Political Science,22
+American Studies,Psychology,3
+American Studies,Spanish,4
+American Studies,Women's Studies,22
+American Studies,Writing,16
+Anthropology,Art Track One,22
+Anthropology,Art Track Three,23
+Anthropology,Art Track Two,23
+Anthropology,Biochemistry,3
+Anthropology,Biological Anthropology,39
+Anthropology,Biology,3
+Anthropology,Business,3
+Anthropology,Chemistry,4
+Anthropology,Data Analytics,5
+Anthropology,Economics,12
+Anthropology,Environmental Studies,5
+Anthropology,History,8
+Anthropology,Interdisciplinary Critical Theory,15
+Anthropology,International Studies,28
+Anthropology,Latin American Studies,14
+Anthropology,Law and Society,19
+Anthropology,Marine Biology,3
+Anthropology,Mathematical Sciences,7
+Anthropology,Mathematics,12
+Anthropology,Medical Humanities,22
+Anthropology,Neuroscience Track One,3
+Anthropology,Neuroscience Track Two,3
+Anthropology,Philosophy,4
+Anthropology,Physics,3
+Anthropology,Political Science,25
+Anthropology,Psychology,9
+Anthropology,Spanish,15
+Anthropology,Women's Studies,26
+Anthropology,Writing,3
+Art Track One,Art Track Three,88
+Art Track One,Art Track Two,92
+Art Track One,Biochemistry,6
+Art Track One,Biological Anthropology,24
+Art Track One,Biology,28
+Art Track One,Business,4
+Art Track One,Economics,2
+Art Track One,English Literature,13
+Art Track One,Environmental Studies,31
+Art Track One,History,12
+Art Track One,Interdisciplinary Critical Theory,33
+Art Track One,International Studies,7
+Art Track One,Latin American Studies,6
+Art Track One,Law and Society,10
+Art Track One,Marine Biology,17
+Art Track One,Medical Humanities,49
+Art Track One,Neuroscience Track One,6
+Art Track One,Neuroscience Track Two,6
+Art Track One,Philosophy,6
+Art Track One,Physics,5
+Art Track One,Political Science,11
+Art Track One,Psychology,8
+Art Track One,Spanish,6
+Art Track One,Women's Studies,20
+Art Track One,Writing,11
+Art Track Three,Art Track Two,86
+Art Track Three,Biochemistry,6
+Art Track Three,Biological Anthropology,25
+Art Track Three,Biology,30
+Art Track Three,Business,5
+Art Track Three,Economics,2
+Art Track Three,English Literature,13
+Art Track Three,Environmental Studies,32
+Art Track Three,History,14
+Art Track Three,Interdisciplinary Critical Theory,35
+Art Track Three,International Studies,8
+Art Track Three,Latin American Studies,6
+Art Track Three,Law and Society,10
+Art Track Three,Marine Biology,18
+Art Track Three,Medical Humanities,45
+Art Track Three,Neuroscience Track One,7
+Art Track Three,Neuroscience Track Two,7
+Art Track Three,Philosophy,7
+Art Track Three,Physics,5
+Art Track Three,Political Science,11
+Art Track Three,Psychology,9
+Art Track Three,Spanish,6
+Art Track Three,Women's Studies,23
+Art Track Three,Writing,12
+Art Track Two,Biochemistry,6
+Art Track Two,Biological Anthropology,24
+Art Track Two,Biology,29
+Art Track Two,Business,5
+Art Track Two,Economics,2
+Art Track Two,English Literature,13
+Art Track Two,Environmental Studies,31
+Art Track Two,History,13
+Art Track Two,Interdisciplinary Critical Theory,29
+Art Track Two,International Studies,7
+Art Track Two,Latin American Studies,6
+Art Track Two,Law and Society,10
+Art Track Two,Marine Biology,17
+Art Track Two,Medical Humanities,49
+Art Track Two,Neuroscience Track One,7
+Art Track Two,Neuroscience Track Two,6
+Art Track Two,Philosophy,8
+Art Track Two,Physics,5
+Art Track Two,Political Science,11
+Art Track Two,Psychology,8
+Art Track Two,Spanish,6
+Art Track Two,Women's Studies,21
+Art Track Two,Writing,11
+Biochemistry,Biological Anthropology,20
+Biochemistry,Biology,48
+Biochemistry,Business,6
+Biochemistry,Chemistry,63
+Biochemistry,Data Analytics,7
+Biochemistry,Economics,6
+Biochemistry,Environmental Studies,38
+Biochemistry,History,2
+Biochemistry,Interdisciplinary Critical Theory,46
+Biochemistry,International Studies,2
+Biochemistry,Latin American Studies,2
+Biochemistry,Law and Society,2
+Biochemistry,Marine Biology,35
+Biochemistry,Mathematical Sciences,19
+Biochemistry,Mathematics,8
+Biochemistry,Medical Humanities,1
+Biochemistry,Neuroscience Track One,62
+Biochemistry,Neuroscience Track Two,43
+Biochemistry,Physics,42
+Biochemistry,Political Science,2
+Biochemistry,Psychology,19
+Biochemistry,Spanish,3
+Biochemistry,Women's Studies,2
+Biological Anthropology,Biology,40
+Biological Anthropology,Business,5
+Biological Anthropology,Chemistry,6
+Biological Anthropology,Data Analytics,4
+Biological Anthropology,Economics,5
+Biological Anthropology,Environmental Studies,21
+Biological Anthropology,History,9
+Biological Anthropology,Interdisciplinary Critical Theory,22
+Biological Anthropology,International Studies,15
+Biological Anthropology,Latin American Studies,9
+Biological Anthropology,Law and Society,2
+Biological Anthropology,Marine Biology,25
+Biological Anthropology,Mathematical Sciences,12
+Biological Anthropology,Mathematics,3
+Biological Anthropology,Medical Humanities,12
+Biological Anthropology,Neuroscience Track One,30
+Biological Anthropology,Neuroscience Track Two,30
+Biological Anthropology,Physics,15
+Biological Anthropology,Political Science,4
+Biological Anthropology,Psychology,23
+Biological Anthropology,Spanish,9
+Biological Anthropology,Women's Studies,7
+Biology,Business,6
+Biology,Chemistry,32
+Biology,Data Analytics,7
+Biology,Economics,6
+Biology,Environmental Studies,53
+Biology,History,2
+Biology,Interdisciplinary Critical Theory,37
+Biology,International Studies,2
+Biology,Latin American Studies,2
+Biology,Law and Society,2
+Biology,Marine Biology,56
+Biology,Mathematical Sciences,14
+Biology,Mathematics,6
+Biology,Medical Humanities,6
+Biology,Neuroscience Track One,59
+Biology,Neuroscience Track Two,43
+Biology,Physics,30
+Biology,Political Science,2
+Biology,Psychology,26
+Biology,Spanish,3
+Biology,Women's Studies,2
+Business,Chemistry,5
+Business,Data Analytics,7
+Business,Economics,68
+Business,Environmental Studies,14
+Business,History,23
+Business,Interdisciplinary Critical Theory,6
+Business,International Studies,19
+Business,Latin American Studies,5
+Business,Law and Society,22
+Business,Marine Biology,6
+Business,Mathematical Sciences,20
+Business,Mathematics,18
+Business,Medical Humanities,13
+Business,Neuroscience Track One,9
+Business,Neuroscience Track Two,9
+Business,Philosophy,6
+Business,Physics,5
+Business,Political Science,31
+Business,Psychology,14
+Business,Spanish,6
+Business,Women's Studies,17
+Chemistry,Data Analytics,4
+Chemistry,Economics,6
+Chemistry,Environmental Studies,42
+Chemistry,History,2
+Chemistry,Interdisciplinary Critical Theory,42
+Chemistry,International Studies,2
+Chemistry,Latin American Studies,3
+Chemistry,Law and Society,2
+Chemistry,Marine Biology,27
+Chemistry,Mathematical Sciences,19
+Chemistry,Mathematics,11
+Chemistry,Neuroscience Track One,39
+Chemistry,Neuroscience Track Two,14
+Chemistry,Physics,39
+Chemistry,Political Science,2
+Chemistry,Psychology,6
+Chemistry,Spanish,3
+Chemistry,Women's Studies,3
+Data Analytics,Economics,12
+Data Analytics,Environmental Studies,3
+Data Analytics,Interdisciplinary Critical Theory,3
+Data Analytics,International Studies,3
+Data Analytics,Latin American Studies,4
+Data Analytics,Law and Society,3
+Data Analytics,Marine Biology,7
+Data Analytics,Mathematical Sciences,27
+Data Analytics,Mathematics,15
+Data Analytics,Medical Humanities,3
+Data Analytics,Neuroscience Track One,8
+Data Analytics,Neuroscience Track Two,4
+Data Analytics,Physics,8
+Data Analytics,Political Science,3
+Data Analytics,Psychology,12
+Data Analytics,Spanish,5
+Data Analytics,Writing,4
+Economics,Environmental Studies,13
+Economics,History,21
+Economics,Interdisciplinary Critical Theory,5
+Economics,International Studies,26
+Economics,Latin American Studies,8
+Economics,Law and Society,23
+Economics,Marine Biology,6
+Economics,Mathematical Sciences,22
+Economics,Mathematics,26
+Economics,Medical Humanities,13
+Economics,Neuroscience Track One,7
+Economics,Neuroscience Track Two,5
+Economics,Philosophy,6
+Economics,Physics,5
+Economics,Political Science,38
+Economics,Psychology,12
+Economics,Spanish,9
+Economics,Women's Studies,16
+Economics,Writing,2
+English Literature,Environmental Studies,2
+English Literature,History,35
+English Literature,Interdisciplinary Critical Theory,5
+English Literature,Medical Humanities,12
+English Literature,Writing,47
+Environmental Studies,History,5
+Environmental Studies,Interdisciplinary Critical Theory,41
+Environmental Studies,International Studies,6
+Environmental Studies,Latin American Studies,2
+Environmental Studies,Law and Society,13
+Environmental Studies,Marine Biology,38
+Environmental Studies,Mathematical Sciences,8
+Environmental Studies,Mathematics,2
+Environmental Studies,Medical Humanities,14
+Environmental Studies,Neuroscience Track One,31
+Environmental Studies,Neuroscience Track Two,18
+Environmental Studies,Philosophy,5
+Environmental Studies,Physics,29
+Environmental Studies,Political Science,12
+Environmental Studies,Psychology,9
+Environmental Studies,Spanish,2
+Environmental Studies,Women's Studies,12
+Environmental Studies,Writing,2
+History,Interdisciplinary Critical Theory,6
+History,International Studies,25
+History,Latin American Studies,14
+History,Law and Society,23
+History,Marine Biology,2
+History,Mathematical Sciences,5
+History,Mathematics,3
+History,Medical Humanities,20
+History,Neuroscience Track One,2
+History,Neuroscience Track Two,4
+History,Philosophy,13
+History,Physics,2
+History,Political Science,39
+History,Psychology,4
+History,Spanish,15
+History,Women's Studies,20
+History,Writing,20
+Interdisciplinary Critical Theory,International Studies,4
+Interdisciplinary Critical Theory,Latin American Studies,2
+Interdisciplinary Critical Theory,Law and Society,9
+Interdisciplinary Critical Theory,Marine Biology,31
+Interdisciplinary Critical Theory,Mathematical Sciences,12
+Interdisciplinary Critical Theory,Mathematics,9
+Interdisciplinary Critical Theory,Medical Humanities,22
+Interdisciplinary Critical Theory,Neuroscience Track One,31
+Interdisciplinary Critical Theory,Neuroscience Track Two,19
+Interdisciplinary Critical Theory,Philosophy,9
+Interdisciplinary Critical Theory,Physics,32
+Interdisciplinary Critical Theory,Political Science,10
+Interdisciplinary Critical Theory,Psychology,12
+Interdisciplinary Critical Theory,Spanish,2
+Interdisciplinary Critical Theory,Women's Studies,23
+Interdisciplinary Critical Theory,Writing,2
+International Studies,Latin American Studies,40
+International Studies,Law and Society,16
+International Studies,Marine Biology,2
+International Studies,Mathematical Sciences,4
+International Studies,Mathematics,5
+International Studies,Medical Humanities,10
+International Studies,Neuroscience Track One,2
+International Studies,Neuroscience Track Two,2
+International Studies,Philosophy,2
+International Studies,Physics,2
+International Studies,Political Science,30
+International Studies,Psychology,2
+International Studies,Spanish,36
+International Studies,Women's Studies,14
+International Studies,Writing,2
+Latin American Studies,Law and Society,5
+Latin American Studies,Marine Biology,2
+Latin American Studies,Mathematical Sciences,6
+Latin American Studies,Mathematics,4
+Latin American Studies,Medical Humanities,5
+Latin American Studies,Neuroscience Track One,3
+Latin American Studies,Neuroscience Track Two,3
+Latin American Studies,Physics,3
+Latin American Studies,Political Science,11
+Latin American Studies,Psychology,3
+Latin American Studies,Spanish,66
+Latin American Studies,Women's Studies,8
+Latin American Studies,Writing,3
+Law and Society,Marine Biology,2
+Law and Society,Mathematical Sciences,5
+Law and Society,Mathematics,8
+Law and Society,Medical Humanities,24
+Law and Society,Neuroscience Track One,4
+Law and Society,Neuroscience Track Two,8
+Law and Society,Philosophy,22
+Law and Society,Physics,2
+Law and Society,Political Science,54
+Law and Society,Psychology,13
+Law and Society,Spanish,5
+Law and Society,Women's Studies,30
+Law and Society,Writing,2
+Marine Biology,Mathematical Sciences,14
+Marine Biology,Mathematics,6
+Marine Biology,Medical Humanities,1
+Marine Biology,Neuroscience Track One,44
+Marine Biology,Neuroscience Track Two,31
+Marine Biology,Physics,28
+Marine Biology,Political Science,2
+Marine Biology,Psychology,17
+Marine Biology,Spanish,3
+Marine Biology,Women's Studies,2
+Mathematical Sciences,Mathematics,51
+Mathematical Sciences,Neuroscience Track One,22
+Mathematical Sciences,Neuroscience Track Two,11
+Mathematical Sciences,Physics,22
+Mathematical Sciences,Political Science,5
+Mathematical Sciences,Psychology,17
+Mathematical Sciences,Spanish,7
+Mathematical Sciences,Women's Studies,5
+Mathematics,Medical Humanities,2
+Mathematics,Neuroscience Track One,9
+Mathematics,Neuroscience Track Two,3
+Mathematics,Physics,16
+Mathematics,Political Science,8
+Mathematics,Psychology,16
+Mathematics,Spanish,4
+Mathematics,Women's Studies,6
+Medical Humanities,Neuroscience Track One,3
+Medical Humanities,Neuroscience Track Two,5
+Medical Humanities,Philosophy,14
+Medical Humanities,Physics,2
+Medical Humanities,Political Science,22
+Medical Humanities,Psychology,5
+Medical Humanities,Spanish,6
+Medical Humanities,Women's Studies,30
+Medical Humanities,Writing,11
+Neuroscience Track One,Neuroscience Track Two,63
+Neuroscience Track One,Physics,34
+Neuroscience Track One,Political Science,2
+Neuroscience Track One,Psychology,32
+Neuroscience Track One,Spanish,3
+Neuroscience Track One,Women's Studies,2
+Neuroscience Track Two,Physics,21
+Neuroscience Track Two,Political Science,4
+Neuroscience Track Two,Psychology,62
+Neuroscience Track Two,Spanish,3
+Neuroscience Track Two,Women's Studies,7
+Neuroscience Track Two,Writing,2
+Philosophy,Political Science,20
+Philosophy,Women's Studies,12
+Physics,Political Science,2
+Physics,Psychology,7
+Physics,Spanish,3
+Physics,Women's Studies,2
+Political Science,Psychology,8
+Political Science,Spanish,12
+Political Science,Women's Studies,23
+Political Science,Writing,2
+Psychology,Spanish,3
+Psychology,Women's Studies,12
+Psychology,Writing,2
+Spanish,Women's Studies,9
+Spanish,Writing,3
